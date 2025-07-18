@@ -84,3 +84,5 @@ Student-led events often suffer from poor budget management, overspending, and l
 # smart-event-expense-tracker
 AI-powered budget planning and expense tracking tool for college fests and student-led events — built in 24 hours.
 >>>>>>> 04cd66624ae5bbf81142b6d332b6bd04994b39cc
+
+vecel link:https://smart-event-expense-tracker-git-main-2005legends-projects.vercel.app
