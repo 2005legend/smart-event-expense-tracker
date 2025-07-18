@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 💸 Smart Expense Tracker for College Events
 
 A solo-built, AI-powered event budget management system designed for college fests, cultural programs, symposiums, and departmental events. Built during a 24-hour hackathon.
@@ -76,13 +77,10 @@ Student-led events often suffer from poor budget management, overspending, and l
 
 ---
 
-## 📝 How to Run Locally
-
-```bash
-git clone https://github.com/yourusername/smart-expense-tracker.git
-cd smart-expense-tracker
-npm install
-npm run dev
 ```
 
-> Setup Supabase `.env` with public URL & anon key
+
+=======
+# smart-event-expense-tracker
+AI-powered budget planning and expense tracking tool for college fests and student-led events — built in 24 hours.
+>>>>>>> 04cd66624ae5bbf81142b6d332b6bd04994b39cc
