@@ -50,9 +50,9 @@ Student-led events often suffer from poor budget management, overspending, and l
 
 ## 📽️ Demo
 
-### 🔗 [Live Project Preview](https://dd99dde1-cb8e-4e48-a3bf-f6799ac052eb.lovableproject.com/dashboard)
+### 🔗 [Live Project Preview](https://smart-event-expense-tracker.vercel.app/) 
 
-### 🎥 [Demo Video](_link_to_video_if_uploaded_)
+
 
 ---
 
